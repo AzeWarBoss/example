@@ -4,10 +4,13 @@
 }
 
 #main{
-height:800px;
 width:800px;
 margin:0 auto;
 background:black;
+}
+
+ul{
+	list-style: none;
 }
 
 a{
